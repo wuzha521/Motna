@@ -1,0 +1,61 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(荒野行动.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Class.cpp
+  dllmain.cpp
+  Dx11.cpp
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(206,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(209,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(212,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(215,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(218,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(425,19): warning C4244: “=”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(429,19): warning C4244: “=”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(593,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\1\repos\荒野行动_公益\荒野行动\Dx11.cpp(891,23): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  Engine.cpp
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(99,4): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(99,4): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(100,4): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(100,4): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(101,4): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(101,4): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(102,4): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(102,4): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(103,4): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(103,4): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(104,9): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(104,9): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(105,9): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(105,9): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(106,9): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(106,9): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(107,14): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(107,14): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(108,9): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(108,9): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(108,14): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(108,14): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(108,19): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(108,19): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(109,9): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(109,9): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(109,14): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(109,14): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(110,4): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(110,4): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(110,34): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(110,34): warning C4309: “初始化”: 截断常量值
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(111,4): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\1\repos\荒野行动_公益\荒野行动\Engine.cpp(111,4): warning C4309: “初始化”: 截断常量值
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Struct.cpp
+  Table.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2093 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  荒野行动.vcxproj -> D:\1\repos\荒野行动_公益\x64\Release\荒野行动_公益.dll
